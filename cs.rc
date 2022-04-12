@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
 # Run this script
+PS1="wibble"
